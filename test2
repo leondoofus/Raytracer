@@ -1,0 +1,6 @@
+camera 0. 0. 0. 0. 0. 5. 8.37758040957 700 500
+material sphereMat 200 130 0 0.8 0.1 0.6 10.
+sphere 0. 0. 10. 0.5 sphereMat
+light 1. -2. 1. 255 255 255 3000.
+material sphereX 100 150 150 0.8 0.1 0.5 10.
+sphere 2. 0. 10. 0.7 sphereX
